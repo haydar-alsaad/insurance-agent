@@ -120,4 +120,6 @@ begin
                with check (bucket_id = 'documents' and name like 'demo-assets/%')$p$;
     end if;
   end if;
+exception when others then
+  raise notice 'demo-assets upload policies not created (%). Create them via the platform storage tools.', sqlerrm;
 end $$;

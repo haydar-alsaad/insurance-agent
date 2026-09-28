@@ -896,10 +896,8 @@ end $$;
 -- =============================================================================
 do $$
 begin
-  if to_regclass('storage.buckets') is not null then
-    insert into storage.buckets (id, name, public) values ('documents', 'documents', false)
-    on conflict (id) do nothing;
-  end if;
+  -- The private bucket 'documents' is NOT created here: Lovable Cloud only allows bucket
+  -- creation through its Storage API. Create it there (private) before using the portal.
   if to_regclass('storage.objects') is not null then
     if not exists (select 1 from pg_policies
                    where schemaname = 'storage' and tablename = 'objects' and policyname = 'watheeq_documents_read') then
@@ -914,6 +912,8 @@ begin
         );
     end if;
   end if;
+exception when others then
+  raise notice 'storage policy watheeq_documents_read not created (%). Create it via the platform storage tools.', sqlerrm;
 end $$;
 
 notify pgrst, 'reload schema';
