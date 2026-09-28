@@ -123,3 +123,21 @@ begin
 exception when others then
   raise notice 'demo-assets upload policies not created (%). Create them via the platform storage tools.', sqlerrm;
 end $$;
+
+-- Storage access for the Railway API service account (Mode B, Lovable Cloud).
+-- The API uploads generated PDFs to documents/<owner_id>/… and customer media to
+-- documents/attachments/<owner_id>/…, and signs download URLs. With no service role key,
+-- it does this as the service_agent user, so that user needs full access to the bucket.
+do $$
+begin
+  if to_regclass('storage.objects') is not null then
+    execute 'drop policy if exists documents_service_agent_all on storage.objects';
+    execute $p$
+      create policy documents_service_agent_all on storage.objects for all to authenticated
+      using (bucket_id = 'documents' and (auth.jwt() -> 'app_metadata' ->> 'role') = 'service_agent')
+      with check (bucket_id = 'documents' and (auth.jwt() -> 'app_metadata' ->> 'role') = 'service_agent')
+    $p$;
+  end if;
+exception when others then
+  raise notice 'documents_service_agent_all not created (%). Create it via the platform storage tools.', sqlerrm;
+end $$;
