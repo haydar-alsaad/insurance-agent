@@ -1,0 +1,207 @@
+[
+  {
+    "report_number": "NJM-2610441",
+    "accident_at": "2026-09-30T18:40:00+03:00",
+    "location_en": "Exit 9, Northern Ring Road, Riyadh",
+    "location_ar": "مخرج 9، الطريق الدائري الشمالي، الرياض",
+    "city_en": "Riyadh",
+    "parties": [
+      {
+        "party": "A",
+        "name_en": "Saud Al-Mutairi",
+        "name_ar": "سعود المطيري",
+        "plate_en": "4721 RKB",
+        "insurer_en": "Watheeq Insurance",
+        "fault_percent": 0,
+        "is_watheeq_customer": true,
+        "customer_id": "WTQ-C-2001",
+        "vehicle_id": "VEH-10001"
+      },
+      {
+        "party": "B",
+        "name_en": "Bandar Al-Harbi",
+        "name_ar": "بندر الحربي",
+        "plate_en": "8813 NRA",
+        "insurer_en": "Other insurer",
+        "fault_percent": 100,
+        "is_watheeq_customer": false,
+        "customer_id": null,
+        "vehicle_id": null
+      }
+    ],
+    "damage_en": "Front right: bumper, headlight and fender",
+    "damage_ar": "الجهة الأمامية اليمنى: الصدّام والشمعة والرفرف",
+    "estimated_damage_sar": 9500,
+    "injuries": false,
+    "report_type": "Self Report"
+  },
+  {
+    "report_number": "NJM-2609914",
+    "accident_at": "2026-09-20T17:20:00+03:00",
+    "location_en": "King Salman Road near Exit 5, Riyadh",
+    "location_ar": "طريق الملك سلمان قرب مخرج 5، الرياض",
+    "city_en": "Riyadh",
+    "parties": [
+      {
+        "party": "A",
+        "name_en": "Turki Al-Shehri",
+        "name_ar": "تركي الشهري",
+        "plate_en": "9034 HJS",
+        "insurer_en": "Watheeq Insurance",
+        "fault_percent": 25,
+        "is_watheeq_customer": true,
+        "customer_id": "WTQ-C-2002",
+        "vehicle_id": "VEH-20002"
+      },
+      {
+        "party": "B",
+        "name_en": "Nawaf Al-Shahrani",
+        "name_ar": "نواف الشهراني",
+        "plate_en": "3391 KSD",
+        "insurer_en": "Other insurer",
+        "fault_percent": 75,
+        "is_watheeq_customer": false,
+        "customer_id": null,
+        "vehicle_id": null
+      }
+    ],
+    "damage_en": "Rear bumper, tailgate and rear lights",
+    "damage_ar": "الصدّام الخلفي والباب الخلفي والإضاءة الخلفية",
+    "estimated_damage_sar": 14800,
+    "injuries": false,
+    "report_type": "Officer"
+  },
+  {
+    "report_number": "NJM-2608376",
+    "accident_at": "2026-08-15T21:10:00+03:00",
+    "location_en": "Prince Turki bin Abdulaziz Al Awwal Road, Hittin, Riyadh",
+    "location_ar": "طريق الأمير تركي بن عبدالعزيز الأول، حي حطين، الرياض",
+    "city_en": "Riyadh",
+    "parties": [
+      {
+        "party": "A",
+        "name_en": "Fahad Al-Anazi",
+        "name_ar": "فهد العنزي",
+        "plate_en": "9034 HJS",
+        "insurer_en": "Watheeq Insurance",
+        "fault_percent": 100,
+        "is_watheeq_customer": true,
+        "customer_id": "WTQ-C-2002",
+        "vehicle_id": "VEH-20002"
+      },
+      {
+        "party": "B",
+        "name_en": "Yasser Al-Malki",
+        "name_ar": "ياسر المالكي",
+        "plate_en": "2275 BLD",
+        "insurer_en": "Other insurer",
+        "fault_percent": 0,
+        "is_watheeq_customer": false,
+        "customer_id": null,
+        "vehicle_id": null
+      }
+    ],
+    "damage_en": "Front bumper and bonnet (party A); rear doors (party B)",
+    "damage_ar": "الصدّام الأمامي والكبوت (الطرف أ)؛ الأبواب الخلفية (الطرف ب)",
+    "estimated_damage_sar": 11200,
+    "injuries": false,
+    "report_type": "Officer"
+  },
+  {
+    "report_number": "NJM-2610102",
+    "accident_at": "2026-09-12T06:50:00+03:00",
+    "location_en": "Riyadh–Qassim Highway, 38 km north of Riyadh",
+    "location_ar": "طريق الرياض–القصيم، 38 كم شمال الرياض",
+    "city_en": "Riyadh",
+    "parties": [
+      {
+        "party": "A",
+        "name_en": "Turki Al-Shehri",
+        "name_ar": "تركي الشهري",
+        "plate_en": "6610 LNM",
+        "insurer_en": "Watheeq Insurance",
+        "fault_percent": 100,
+        "is_watheeq_customer": true,
+        "customer_id": "WTQ-C-2002",
+        "vehicle_id": "VEH-20003"
+      }
+    ],
+    "damage_en": "Rollover after a tyre blow-out — roof, pillars and both sides",
+    "damage_ar": "انقلاب بعد انفجار إطار — السقف والأعمدة والجانبان",
+    "estimated_damage_sar": 48000,
+    "injuries": false,
+    "report_type": "Officer"
+  },
+  {
+    "report_number": "NJM-2610587",
+    "accident_at": "2026-09-29T08:15:00+03:00",
+    "location_en": "Olaya Street at Tahlia Street intersection, Riyadh",
+    "location_ar": "تقاطع شارع العليا مع شارع التحلية، الرياض",
+    "city_en": "Riyadh",
+    "parties": [
+      {
+        "party": "A",
+        "name_en": "Turki Al-Shehri",
+        "name_ar": "تركي الشهري",
+        "plate_en": "1582 BDA",
+        "insurer_en": "Watheeq Insurance",
+        "fault_percent": 100,
+        "is_watheeq_customer": true,
+        "customer_id": "WTQ-C-2002",
+        "vehicle_id": "VEH-20001"
+      },
+      {
+        "party": "B",
+        "name_en": "Majed Al-Otaibi",
+        "name_ar": "ماجد العتيبي",
+        "plate_en": "5520 TRK",
+        "insurer_en": "Other",
+        "fault_percent": 0,
+        "is_watheeq_customer": false,
+        "customer_id": null,
+        "vehicle_id": null
+      }
+    ],
+    "damage_en": "Party B: rear bumper and boot lid. Party A: front bumper.",
+    "damage_ar": "الطرف ب: الصدّام الخلفي وغطاء الشنطة. الطرف أ: الصدّام الأمامي.",
+    "estimated_damage_sar": 7800,
+    "injuries": false,
+    "report_type": "Self Report"
+  },
+  {
+    "report_number": "NJM-2609380",
+    "accident_at": "2026-09-08T13:25:00+03:00",
+    "location_en": "Prince Turki bin Abdulaziz Al Awwal Road, Hittin, Riyadh",
+    "location_ar": "طريق الأمير تركي بن عبدالعزيز الأول، حي حطين، الرياض",
+    "city_en": "Riyadh",
+    "parties": [
+      {
+        "party": "A",
+        "name_en": "Abdulaziz Al-Dosari",
+        "name_ar": "عبدالعزيز الدوسري",
+        "plate_en": "7719 KDA",
+        "insurer_en": "Watheeq Insurance",
+        "fault_percent": 0,
+        "is_watheeq_customer": true,
+        "customer_id": "WTQ-C-2003",
+        "vehicle_id": "VEH-30002"
+      },
+      {
+        "party": "B",
+        "name_en": "Sami Al-Qarni",
+        "name_ar": "سامي القرني",
+        "plate_en": "6148 HRA",
+        "insurer_en": "Other insurer",
+        "fault_percent": 100,
+        "is_watheeq_customer": false,
+        "customer_id": null,
+        "vehicle_id": null
+      }
+    ],
+    "damage_en": "Left side: both doors scratched and dented",
+    "damage_ar": "الجهة اليسرى: خدوش وانبعاجات في البابين",
+    "estimated_damage_sar": 6850,
+    "injuries": false,
+    "report_type": "Self Report"
+  }
+]

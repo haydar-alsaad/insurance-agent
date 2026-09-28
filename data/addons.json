@@ -1,0 +1,32 @@
+[
+  {
+    "addon_code": "AGENCY_REPAIR",
+    "name_en": "Dealership (agency) repair",
+    "name_ar": "الإصلاح في الوكالة",
+    "annual_price_sar": 1500,
+    "limit_text_en": "Repairs at the brand's authorised dealership with original parts. Cars up to 5 years old.",
+    "limit_text_ar": "الإصلاح لدى الوكيل المعتمد بقطع غيار أصلية. للسيارات حتى 5 سنوات.",
+    "max_vehicle_age_years": 5,
+    "per_accident_limit_sar": null
+  },
+  {
+    "addon_code": "REPLACEMENT_CAR",
+    "name_en": "Replacement car",
+    "name_ar": "سيارة بديلة",
+    "annual_price_sar": 800,
+    "limit_text_en": "Rental car while yours is repaired, up to SAR 2,000 per accident.",
+    "limit_text_ar": "سيارة مستأجرة أثناء إصلاح سيارتك، حتى 2,000 ريال لكل حادث.",
+    "max_vehicle_age_years": null,
+    "per_accident_limit_sar": 2000
+  },
+  {
+    "addon_code": "ADDITIONAL_DRIVER",
+    "name_en": "Additional named driver",
+    "name_ar": "سائق إضافي مسمّى",
+    "annual_price_sar": 450,
+    "limit_text_en": "Adds one named driver (spouse, parent, child, sibling or employee with a work contract).",
+    "limit_text_ar": "إضافة سائق مسمّى (الزوج/الزوجة، الوالدين، الأبناء، الإخوة أو موظف بعقد عمل).",
+    "max_vehicle_age_years": null,
+    "per_accident_limit_sar": null
+  }
+]

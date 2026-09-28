@@ -1,0 +1,170 @@
+[
+  {
+    "rule_key": "newborn_add_window_days",
+    "value_num": 30,
+    "value_text": null,
+    "unit": "days",
+    "description_en": "Add a newborn within this many days of birth for cover with no waiting period.",
+    "description_ar": "أضف المولود خلال هذه المدة من تاريخ الولادة ليُغطّى دون فترة انتظار."
+  },
+  {
+    "rule_key": "claim_payment_days",
+    "value_num": 15,
+    "value_text": null,
+    "unit": "days",
+    "description_en": "Claims must be paid within this many days of complete documents.",
+    "description_ar": "يجب صرف المطالبة خلال هذه المدة من اكتمال المستندات."
+  },
+  {
+    "rule_key": "najm_report_window_hours",
+    "value_num": 24,
+    "value_text": null,
+    "unit": "hours",
+    "description_en": "Report an accident to Najm within this many hours or the claim can be refused.",
+    "description_ar": "يجب إبلاغ نجم خلال هذه المدة وإلا قد تُرفض المطالبة."
+  },
+  {
+    "rule_key": "najm_self_report_max_damage_sar",
+    "value_num": 10000,
+    "value_text": null,
+    "unit": "SAR",
+    "description_en": "Self-report on the Najm app only if damage is below this and nobody is hurt.",
+    "description_ar": "يمكن الإبلاغ الذاتي عبر تطبيق نجم إذا كانت الأضرار أقل من هذا المبلغ ولا توجد إصابات."
+  },
+  {
+    "rule_key": "najm_phone",
+    "value_num": null,
+    "value_text": "920000560",
+    "unit": "phone",
+    "description_en": "Najm — call for an officer.",
+    "description_ar": "نجم — للاتصال وطلب مباشر الحادث."
+  },
+  {
+    "rule_key": "insurance_authority_phone",
+    "value_num": null,
+    "value_text": "800 124 0551",
+    "unit": "phone",
+    "description_en": "Insurance Authority complaints line.",
+    "description_ar": "رقم هيئة التأمين لتقديم الشكاوى."
+  },
+  {
+    "rule_key": "complaint_sla_working_days",
+    "value_num": 5,
+    "value_text": null,
+    "unit": "working days",
+    "description_en": "Complaints are answered within this many working days (Sun–Thu).",
+    "description_ar": "يتم الرد على الشكاوى خلال هذه المدة من أيام العمل (الأحد–الخميس)."
+  },
+  {
+    "rule_key": "second_valuation_days",
+    "value_num": 10,
+    "value_text": null,
+    "unit": "working days",
+    "description_en": "An independent expert decides a second valuation within this many working days.",
+    "description_ar": "يبت خبير مستقل في إعادة التقييم خلال هذه المدة من أيام العمل."
+  },
+  {
+    "rule_key": "schengen_min_cover_eur",
+    "value_num": 30000,
+    "value_text": null,
+    "unit": "EUR",
+    "description_en": "Minimum medical cover the Schengen visa requires.",
+    "description_ar": "الحد الأدنى للتغطية الطبية المطلوبة لتأشيرة شنغن."
+  },
+  {
+    "rule_key": "schengen_extra_days",
+    "value_num": 15,
+    "value_text": null,
+    "unit": "days",
+    "description_en": "Schengen certificates run this many days beyond the trip end.",
+    "description_ar": "تمتد شهادة شنغن هذه المدة بعد نهاية الرحلة."
+  },
+  {
+    "rule_key": "home_excess_sar",
+    "value_num": 500,
+    "value_text": null,
+    "unit": "SAR",
+    "description_en": "Home claim excess the customer pays.",
+    "description_ar": "مبلغ التحمّل في مطالبات المنزل."
+  },
+  {
+    "rule_key": "motor_excess_sar",
+    "value_num": 500,
+    "value_text": null,
+    "unit": "SAR",
+    "description_en": "Motor claim excess when the customer is at fault.",
+    "description_ar": "مبلغ التحمّل في مطالبات المركبات عند الخطأ."
+  },
+  {
+    "rule_key": "cancellation_fee_sar",
+    "value_num": 30,
+    "value_text": null,
+    "unit": "SAR",
+    "description_en": "Fee deducted from a cancellation refund.",
+    "description_ar": "رسوم تُخصم من مبلغ الاسترداد عند الإلغاء."
+  },
+  {
+    "rule_key": "travel_delayed_bag_limit_sar",
+    "value_num": 3000,
+    "value_text": null,
+    "unit": "SAR",
+    "description_en": "Maximum paid for a delayed bag on travel policies.",
+    "description_ar": "الحد الأقصى المدفوع عن تأخر الأمتعة في تأمين السفر."
+  },
+  {
+    "rule_key": "quote_validity_hours",
+    "value_num": 24,
+    "value_text": null,
+    "unit": "hours",
+    "description_en": "Quotes are valid for this many hours.",
+    "description_ar": "صلاحية عرض السعر بالساعات."
+  },
+  {
+    "rule_key": "allowed_driver_relationships",
+    "value_num": null,
+    "value_text": "Spouse,Parent,Child,Sibling,Employee (work contract)",
+    "unit": "list",
+    "description_en": "Relationships that can be added as named drivers.",
+    "description_ar": "صلات القرابة التي يمكن إضافتها كسائقين مسمّين: الزوج/الزوجة، الوالدين، الأبناء، الإخوة، موظف بعقد عمل."
+  },
+  {
+    "rule_key": "require_payment_before_issue",
+    "value_num": 0,
+    "value_text": null,
+    "unit": "flag",
+    "description_en": "1 = policy stays Pending Payment until paid; 0 = issued immediately with a payment link.",
+    "description_ar": "1 = تبقى الوثيقة بانتظار الدفع حتى السداد؛ 0 = تصدر فوراً مع رابط دفع."
+  },
+  {
+    "rule_key": "cosmetic_dental_covered",
+    "value_num": 0,
+    "value_text": null,
+    "unit": "flag",
+    "description_en": "Cosmetic dental treatment (e.g. whitening) is not covered on any class.",
+    "description_ar": "علاجات الأسنان التجميلية (مثل التبييض) غير مغطاة في أي فئة."
+  },
+  {
+    "rule_key": "dental_cleanings_per_year",
+    "value_num": 2,
+    "value_text": null,
+    "unit": "per year",
+    "description_en": "Covered dental cleanings per member per year.",
+    "description_ar": "عدد جلسات تنظيف الأسنان المغطاة لكل عضو سنوياً."
+  },
+  {
+    "rule_key": "emergency_red_crescent",
+    "value_num": null,
+    "value_text": "997",
+    "unit": "phone",
+    "description_en": "Saudi Red Crescent (ambulance).",
+    "description_ar": "الهلال الأحمر السعودي (الإسعاف)."
+  },
+  {
+    "rule_key": "police",
+    "value_num": null,
+    "value_text": "999",
+    "unit": "phone",
+    "description_en": "Police.",
+    "description_ar": "الشرطة."
+  }
+]

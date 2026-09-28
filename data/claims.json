@@ -1,0 +1,255 @@
+[
+  {
+    "claim_id": "CLM-33890",
+    "claim_type": "Motor",
+    "customer_id": "WTQ-C-2002",
+    "policy_id": "POL-MTR-20002",
+    "vehicle_id": "VEH-20002",
+    "najm_report_number": "NJM-2609914",
+    "status": "Awaiting Documents",
+    "opened_at": "2026-09-21T09:15:00+03:00",
+    "documents_completed_at": null,
+    "payment_due_by": null,
+    "description_en": "Collision on King Salman Road near Exit 5 — rear bumper, tailgate and rear lights damaged.",
+    "description_ar": "حادث على طريق الملك سلمان قرب مخرج 5 — تضرر الصدّام الخلفي والباب الخلفي والإضاءة الخلفية.",
+    "fault_percent": 25,
+    "customer_pays_sar": 500,
+    "approved_amount_sar": 14200,
+    "missing_documents": [
+      {
+        "code": "driving_licence",
+        "label_en": "Photo of driving licence",
+        "label_ar": "صورة رخصة القيادة"
+      }
+    ],
+    "documents": [
+      {
+        "code": "najm_report",
+        "path": null,
+        "stored": false,
+        "received_at": "2026-09-21T09:15:00+03:00"
+      },
+      {
+        "code": "vehicle_registration",
+        "path": null,
+        "stored": false,
+        "received_at": "2026-09-21T09:16:00+03:00"
+      },
+      {
+        "code": "national_id",
+        "path": null,
+        "stored": false,
+        "received_at": "2026-09-21T09:16:00+03:00"
+      },
+      {
+        "code": "damage_photos",
+        "path": null,
+        "stored": false,
+        "received_at": "2026-09-21T09:20:00+03:00"
+      },
+      {
+        "code": "inspection_report",
+        "path": null,
+        "stored": false,
+        "received_at": "2026-09-23T12:40:00+03:00"
+      }
+    ],
+    "settlement_preference": "Repair",
+    "iban_masked": "SA71 **** **** **** **** 9021",
+    "claimant": null,
+    "valuation": null,
+    "rejection_reason_en": null,
+    "rejection_reason_ar": null,
+    "rental": {
+      "booking_id": null,
+      "daily_rate": 280,
+      "days": 0,
+      "limit_sar": 2000,
+      "used_sar": 0
+    },
+    "amounts": null,
+    "assigned_to_en": "Motor Claims — Riyadh"
+  },
+  {
+    "claim_id": "CLM-33650",
+    "claim_type": "Motor",
+    "customer_id": "WTQ-C-2002",
+    "policy_id": "POL-MTR-20002",
+    "vehicle_id": "VEH-20002",
+    "najm_report_number": "NJM-2608376",
+    "status": "Rejected",
+    "opened_at": "2026-08-16T10:05:00+03:00",
+    "documents_completed_at": null,
+    "payment_due_by": null,
+    "description_en": "Accident while the car was driven by Fahad Al-Anazi (a friend of the policyholder, not named on the policy).",
+    "description_ar": "حادث أثناء قيادة السيارة من قبل فهد العنزي (صديق حامل الوثيقة، غير مسجّل على الوثيقة).",
+    "fault_percent": 100,
+    "customer_pays_sar": 0,
+    "approved_amount_sar": null,
+    "missing_documents": [],
+    "documents": [
+      {
+        "code": "najm_report",
+        "path": null,
+        "stored": false,
+        "received_at": "2026-08-16T10:05:00+03:00"
+      },
+      {
+        "code": "vehicle_registration",
+        "path": null,
+        "stored": false,
+        "received_at": "2026-08-16T10:06:00+03:00"
+      },
+      {
+        "code": "driver_licence_fahad",
+        "path": null,
+        "stored": false,
+        "received_at": "2026-08-16T10:07:00+03:00"
+      }
+    ],
+    "settlement_preference": null,
+    "iban_masked": null,
+    "claimant": null,
+    "valuation": null,
+    "rejection_reason_en": "Driver not on policy and not an eligible relationship (Fahad Al-Anazi — friend).",
+    "rejection_reason_ar": "السائق غير مسجّل على الوثيقة وليس من صلات القرابة المؤهلة (فهد العنزي — صديق).",
+    "rental": null,
+    "amounts": null,
+    "assigned_to_en": "Motor Claims — Riyadh"
+  },
+  {
+    "claim_id": "CLM-33702",
+    "claim_type": "Motor",
+    "customer_id": "WTQ-C-2002",
+    "policy_id": "POL-MTR-20003",
+    "vehicle_id": "VEH-20003",
+    "najm_report_number": "NJM-2610102",
+    "status": "Total Loss — Valuation",
+    "opened_at": "2026-09-13T08:40:00+03:00",
+    "documents_completed_at": null,
+    "payment_due_by": null,
+    "description_en": "Single-vehicle rollover on the Riyadh–Qassim Highway — declared a total loss at inspection.",
+    "description_ar": "انقلاب مركبة منفردة على طريق الرياض–القصيم — اعتُبرت خسارة كلية عند المعاينة.",
+    "fault_percent": 100,
+    "customer_pays_sar": 0,
+    "approved_amount_sar": null,
+    "missing_documents": [],
+    "documents": [
+      {
+        "code": "najm_report",
+        "path": null,
+        "stored": false,
+        "received_at": "2026-09-13T08:40:00+03:00"
+      },
+      {
+        "code": "vehicle_registration",
+        "path": null,
+        "stored": false,
+        "received_at": "2026-09-13T08:41:00+03:00"
+      },
+      {
+        "code": "national_id",
+        "path": null,
+        "stored": false,
+        "received_at": "2026-09-13T08:41:00+03:00"
+      },
+      {
+        "code": "driving_licence",
+        "path": null,
+        "stored": false,
+        "received_at": "2026-09-13T08:42:00+03:00"
+      },
+      {
+        "code": "inspection_report",
+        "path": null,
+        "stored": false,
+        "received_at": "2026-09-16T13:10:00+03:00"
+      }
+    ],
+    "settlement_preference": "Cash",
+    "iban_masked": "SA71 **** **** **** **** 9021",
+    "claimant": null,
+    "valuation": {
+      "market_price": 52000,
+      "deductions": [
+        {
+          "label_en": "High mileage (186,000 km)",
+          "label_ar": "مسافة مقطوعة عالية (186,000 كم)",
+          "amount": 7280
+        },
+        {
+          "label_en": "Old damage found at inspection (left rear quarter panel)",
+          "label_ar": "ضرر سابق ظهر في المعاينة (الرفرف الخلفي الأيسر)",
+          "amount": 2400
+        }
+      ],
+      "offered_amount": 42320,
+      "model_year": 2021,
+      "valued_at": "2026-09-17T15:00:00+03:00"
+    },
+    "rejection_reason_en": null,
+    "rejection_reason_ar": null,
+    "rental": null,
+    "amounts": null,
+    "assigned_to_en": "Motor Claims — Total Loss Unit"
+  },
+  {
+    "claim_id": "CLM-33512",
+    "claim_type": "Motor",
+    "customer_id": "WTQ-C-2003",
+    "policy_id": "POL-MTR-30002",
+    "vehicle_id": "VEH-30002",
+    "najm_report_number": "NJM-2609380",
+    "status": "Under Review",
+    "opened_at": "2026-09-09T10:10:00+03:00",
+    "documents_completed_at": "2026-09-09T16:30:00+03:00",
+    "payment_due_by": "2026-09-24",
+    "description_en": "Side-swipe on Prince Turki Road (before the car was sold) — left doors scratched and dented.",
+    "description_ar": "احتكاك جانبي على طريق الأمير تركي (قبل بيع السيارة) — خدوش وانبعاجات في البابين الأيسرين.",
+    "fault_percent": 0,
+    "customer_pays_sar": 0,
+    "approved_amount_sar": null,
+    "missing_documents": [],
+    "documents": [
+      {
+        "code": "najm_report",
+        "path": null,
+        "stored": false,
+        "received_at": "2026-09-09T10:10:00+03:00"
+      },
+      {
+        "code": "vehicle_registration",
+        "path": null,
+        "stored": false,
+        "received_at": "2026-09-09T10:11:00+03:00"
+      },
+      {
+        "code": "national_id",
+        "path": null,
+        "stored": false,
+        "received_at": "2026-09-09T10:11:00+03:00"
+      },
+      {
+        "code": "driving_licence",
+        "path": null,
+        "stored": false,
+        "received_at": "2026-09-09T10:12:00+03:00"
+      },
+      {
+        "code": "damage_photos",
+        "path": null,
+        "stored": false,
+        "received_at": "2026-09-09T16:30:00+03:00"
+      }
+    ],
+    "settlement_preference": "Repair",
+    "iban_masked": null,
+    "claimant": null,
+    "valuation": null,
+    "rejection_reason_en": null,
+    "rejection_reason_ar": null,
+    "rental": null,
+    "amounts": null,
+    "assigned_to_en": "Motor Claims — Riyadh"
+  }
+]

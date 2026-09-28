@@ -1,0 +1,62 @@
+[
+  {
+    "dependent_id": "DEP-10001",
+    "customer_id": "WTQ-C-2001",
+    "full_name_en": "Hessa Al-Shammari",
+    "full_name_ar": "حصة الشمري",
+    "relationship": "Spouse",
+    "dob": "1989-11-02",
+    "national_id_or_birth_cert": "1078234519",
+    "gender": "Female"
+  },
+  {
+    "dependent_id": "DEP-10002",
+    "customer_id": "WTQ-C-2001",
+    "full_name_en": "Abdullah Al-Mutairi",
+    "full_name_ar": "عبدالله المطيري",
+    "relationship": "Son",
+    "dob": "2016-02-20",
+    "national_id_or_birth_cert": "1129384756",
+    "gender": "Male"
+  },
+  {
+    "dependent_id": "DEP-10003",
+    "customer_id": "WTQ-C-2001",
+    "full_name_en": "Lama Al-Mutairi",
+    "full_name_ar": "لمى المطيري",
+    "relationship": "Daughter",
+    "dob": "2019-06-08",
+    "national_id_or_birth_cert": "1138475620",
+    "gender": "Female"
+  },
+  {
+    "dependent_id": "DEP-40001",
+    "customer_id": "WTQ-C-2004",
+    "full_name_en": "Mashael Al-Zahrani",
+    "full_name_ar": "مشاعل الزهراني",
+    "relationship": "Spouse",
+    "dob": "1991-03-17",
+    "national_id_or_birth_cert": "1084736251",
+    "gender": "Female"
+  },
+  {
+    "dependent_id": "DEP-40002",
+    "customer_id": "WTQ-C-2004",
+    "full_name_en": "Faris Al-Ghamdi",
+    "full_name_ar": "فارس الغامدي",
+    "relationship": "Son",
+    "dob": "2018-04-11",
+    "national_id_or_birth_cert": "1147382910",
+    "gender": "Male"
+  },
+  {
+    "dependent_id": "DEP-40003",
+    "customer_id": "WTQ-C-2004",
+    "full_name_en": "Reem Al-Ghamdi",
+    "full_name_ar": "ريم الغامدي",
+    "relationship": "Daughter",
+    "dob": "2021-09-19",
+    "national_id_or_birth_cert": "1152938476",
+    "gender": "Female"
+  }
+]

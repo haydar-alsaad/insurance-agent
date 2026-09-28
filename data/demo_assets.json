@@ -1,0 +1,122 @@
+[
+  {
+    "asset_id": "WTQ-AST-01",
+    "persona_id": "W1",
+    "use_case": "I-18",
+    "title_en": "Out-of-network clinic invoice (SAR 620)",
+    "title_ar": "فاتورة عيادة خارج الشبكة (620 ريال)",
+    "storage_path": "demo-assets/receipts/W1-clinic-invoice.pdf",
+    "content_type": "application/pdf",
+    "description_en": "Al Nakheel Medical Clinic invoice — visit SAR 400 + medicine SAR 220 = SAR 620. Send as a photo/PDF to open a reimbursement (80% = SAR 496)."
+  },
+  {
+    "asset_id": "WTQ-AST-02",
+    "persona_id": "W1",
+    "use_case": "I-18",
+    "title_en": "Medical report (Al Nakheel Medical Clinic)",
+    "title_ar": "تقرير طبي (عيادة النخيل الطبية)",
+    "storage_path": "demo-assets/receipts/W1-medical-report.pdf",
+    "content_type": "application/pdf",
+    "description_en": "Medical report for the same visit — send together with the invoice."
+  },
+  {
+    "asset_id": "WTQ-AST-03",
+    "persona_id": "W2",
+    "use_case": "I-10",
+    "title_en": "Driving licence photo (SPECIMEN)",
+    "title_ar": "صورة رخصة القيادة (نموذج)",
+    "storage_path": "demo-assets/docs/W2-driving-licence.jpg",
+    "content_type": "image/jpeg",
+    "description_en": "Clearly-marked SPECIMEN licence for Turki Al-Shehri — send it to complete claim CLM-33890."
+  },
+  {
+    "asset_id": "WTQ-AST-04",
+    "persona_id": "W2",
+    "use_case": "I-12",
+    "title_en": "Car advert 1 — 2021 Camry SAR 47,500",
+    "title_ar": "إعلان سيارة 1 — كامري 2021 بسعر 47,500 ريال",
+    "storage_path": "demo-assets/docs/W2-car-adverts-1.png",
+    "content_type": "image/png",
+    "description_en": "Market advert screenshot used as evidence for the second valuation of CLM-33702."
+  },
+  {
+    "asset_id": "WTQ-AST-05",
+    "persona_id": "W2",
+    "use_case": "I-12",
+    "title_en": "Car advert 2 — 2021 Camry SAR 48,900",
+    "title_ar": "إعلان سيارة 2 — كامري 2021 بسعر 48,900 ريال",
+    "storage_path": "demo-assets/docs/W2-car-adverts-2.png",
+    "content_type": "image/png",
+    "description_en": "Market advert screenshot used as evidence for the second valuation of CLM-33702."
+  },
+  {
+    "asset_id": "WTQ-AST-06",
+    "persona_id": "W2",
+    "use_case": "I-12",
+    "title_en": "Car advert 3 — 2021 Camry SAR 49,000",
+    "title_ar": "إعلان سيارة 3 — كامري 2021 بسعر 49,000 ريال",
+    "storage_path": "demo-assets/docs/W2-car-adverts-3.png",
+    "content_type": "image/png",
+    "description_en": "Market advert screenshot used as evidence for the second valuation of CLM-33702."
+  },
+  {
+    "asset_id": "WTQ-AST-07",
+    "persona_id": "W3",
+    "use_case": "I-24",
+    "title_en": "Airline Property Irregularity Report (Madrid)",
+    "title_ar": "تقرير الأمتعة المفقودة من شركة الطيران (مدريد)",
+    "storage_path": "demo-assets/docs/W3-baggage-report.pdf",
+    "content_type": "application/pdf",
+    "description_en": "PIR issued at Madrid-Barajas for Abdulaziz Al-Dosari's missing bag — send to open a travel claim."
+  },
+  {
+    "asset_id": "WTQ-AST-08",
+    "persona_id": "W3",
+    "use_case": "I-24",
+    "title_en": "Boarding pass RUH → MAD",
+    "title_ar": "بطاقة صعود الطائرة الرياض ← مدريد",
+    "storage_path": "demo-assets/docs/W3-boarding-pass.pdf",
+    "content_type": "application/pdf",
+    "description_en": "Boarding pass for the same flight — send together with the PIR."
+  },
+  {
+    "asset_id": "WTQ-AST-09",
+    "persona_id": "W1",
+    "use_case": "I-25",
+    "title_en": "Burst pipe — photo 1 (pipe)",
+    "title_ar": "انفجار ماسورة — صورة 1 (الماسورة)",
+    "storage_path": "demo-assets/photos/W1-burst-pipe-1.jpg",
+    "content_type": "image/jpeg",
+    "description_en": "Render of the burst pipe under the kitchen sink."
+  },
+  {
+    "asset_id": "WTQ-AST-10",
+    "persona_id": "W1",
+    "use_case": "I-25",
+    "title_en": "Burst pipe — photo 2 (floor)",
+    "title_ar": "انفجار ماسورة — صورة 2 (الأرضية)",
+    "storage_path": "demo-assets/photos/W1-burst-pipe-2.jpg",
+    "content_type": "image/jpeg",
+    "description_en": "Render of the water-damaged floor."
+  },
+  {
+    "asset_id": "WTQ-AST-11",
+    "persona_id": "W1",
+    "use_case": "I-25",
+    "title_en": "Burst pipe — photo 3 (furniture)",
+    "title_ar": "انفجار ماسورة — صورة 3 (الأثاث)",
+    "storage_path": "demo-assets/photos/W1-burst-pipe-3.jpg",
+    "content_type": "image/jpeg",
+    "description_en": "Render of the water-damaged sofa and rug."
+  },
+  {
+    "asset_id": "WTQ-AST-12",
+    "persona_id": "TP",
+    "use_case": "I-13",
+    "title_en": "Najm report summary NJM-2610587",
+    "title_ar": "ملخص تقرير نجم NJM-2610587",
+    "storage_path": "demo-assets/docs/I13-najm-report-summary.pdf",
+    "content_type": "application/pdf",
+    "description_en": "Third-party demo: Majed Al-Otaibi's copy of the Najm report (Watheeq customer 100% at fault). Any phone can use it."
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "class_code": "VIP",
+    "name_en": "Class VIP",
+    "name_ar": "الفئة الماسية (VIP)",
+    "annual_limit_sar": 1000000,
+    "dental_limit_sar": 5000,
+    "optical_limit_sar": 1500,
+    "maternity_limit_sar": 30000,
+    "out_of_network_reimbursement_percent": 80,
+    "copay_per_visit_sar": 0,
+    "annual_premium_per_member_sar": 16000,
+    "network_tier": 4
+  },
+  {
+    "class_code": "A",
+    "name_en": "Class A",
+    "name_ar": "الفئة أ",
+    "annual_limit_sar": 500000,
+    "dental_limit_sar": 3000,
+    "optical_limit_sar": 800,
+    "maternity_limit_sar": 20000,
+    "out_of_network_reimbursement_percent": 80,
+    "copay_per_visit_sar": 50,
+    "annual_premium_per_member_sar": 9800,
+    "network_tier": 3
+  },
+  {
+    "class_code": "B",
+    "name_en": "Class B",
+    "name_ar": "الفئة ب",
+    "annual_limit_sar": 250000,
+    "dental_limit_sar": 2000,
+    "optical_limit_sar": 500,
+    "maternity_limit_sar": 15000,
+    "out_of_network_reimbursement_percent": 70,
+    "copay_per_visit_sar": 75,
+    "annual_premium_per_member_sar": 5500,
+    "network_tier": 2
+  },
+  {
+    "class_code": "C",
+    "name_en": "Class C",
+    "name_ar": "الفئة ج",
+    "annual_limit_sar": 100000,
+    "dental_limit_sar": 1000,
+    "optical_limit_sar": 300,
+    "maternity_limit_sar": 10000,
+    "out_of_network_reimbursement_percent": 60,
+    "copay_per_visit_sar": 100,
+    "annual_premium_per_member_sar": 3200,
+    "network_tier": 1
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "doctor_id": "PDR-001",
+    "provider_id": "PRV-001",
+    "name_en": "Dr Khalid Al Amri",
+    "name_ar": "د. خالد العمري",
+    "specialty_en": "Orthopedics",
+    "specialty_ar": "جراحة العظام"
+  },
+  {
+    "doctor_id": "PDR-002",
+    "provider_id": "PRV-001",
+    "name_en": "Dr Reem Al Sabbagh",
+    "name_ar": "د. ريم الصباغ",
+    "specialty_en": "Radiology",
+    "specialty_ar": "الأشعة"
+  },
+  {
+    "doctor_id": "PDR-003",
+    "provider_id": "PRV-001",
+    "name_en": "Dr Faisal Al Zahrani",
+    "name_ar": "د. فيصل الزهراني",
+    "specialty_en": "Cardiology",
+    "specialty_ar": "أمراض القلب"
+  },
+  {
+    "doctor_id": "PDR-004",
+    "provider_id": "PRV-001",
+    "name_en": "Dr Mona Al Harthi",
+    "name_ar": "د. منى الحارثي",
+    "specialty_en": "Pediatrics",
+    "specialty_ar": "طب الأطفال"
+  },
+  {
+    "doctor_id": "PDR-005",
+    "provider_id": "PRV-002",
+    "name_en": "Dr Tariq Al Juhani",
+    "name_ar": "د. طارق الجهني",
+    "specialty_en": "Orthopedics",
+    "specialty_ar": "جراحة العظام"
+  },
+  {
+    "doctor_id": "PDR-006",
+    "provider_id": "PRV-002",
+    "name_en": "Dr Samira Haddad",
+    "name_ar": "د. سميرة حداد",
+    "specialty_en": "Obstetrics & Gynecology",
+    "specialty_ar": "النساء والولادة"
+  },
+  {
+    "doctor_id": "PDR-007",
+    "provider_id": "PRV-003",
+    "name_en": "Dr Omar Bakr",
+    "name_ar": "د. عمر بكر",
+    "specialty_en": "Orthopedics",
+    "specialty_ar": "جراحة العظام"
+  },
+  {
+    "doctor_id": "PDR-008",
+    "provider_id": "PRV-004",
+    "name_en": "Dr Laila Al Qassim",
+    "name_ar": "د. ليلى القاسم",
+    "specialty_en": "Internal Medicine",
+    "specialty_ar": "الباطنة"
+  },
+  {
+    "doctor_id": "PDR-009",
+    "provider_id": "PRV-005",
+    "name_en": "Dr Hatem Al Suwailem",
+    "name_ar": "د. حاتم السويلم",
+    "specialty_en": "Pediatrics",
+    "specialty_ar": "طب الأطفال"
+  },
+  {
+    "doctor_id": "PDR-010",
+    "provider_id": "PRV-006",
+    "name_en": "Dr Nada Al Rashed",
+    "name_ar": "د. ندى الراشد",
+    "specialty_en": "General Dentistry",
+    "specialty_ar": "طب الأسنان العام"
+  },
+  {
+    "doctor_id": "PDR-011",
+    "provider_id": "PRV-006",
+    "name_en": "Dr Yousef Al Shammari",
+    "name_ar": "د. يوسف الشمري",
+    "specialty_en": "Dental Hygiene",
+    "specialty_ar": "تنظيف الأسنان"
+  },
+  {
+    "doctor_id": "PDR-012",
+    "provider_id": "PRV-007",
+    "name_en": "Dr Arwa Al Mansour",
+    "name_ar": "د. أروى المنصور",
+    "specialty_en": "Dental Hygiene",
+    "specialty_ar": "تنظيف الأسنان"
+  },
+  {
+    "doctor_id": "PDR-013",
+    "provider_id": "PRV-008",
+    "name_en": "Dr Hanan Al Subaie",
+    "name_ar": "د. حنان السبيعي",
+    "specialty_en": "Family Medicine",
+    "specialty_ar": "طب الأسرة"
+  },
+  {
+    "doctor_id": "PDR-014",
+    "provider_id": "PRV-009",
+    "name_en": "Dr Waleed Al Maliki",
+    "name_ar": "د. وليد المالكي",
+    "specialty_en": "Orthopedics",
+    "specialty_ar": "جراحة العظام"
+  },
+  {
+    "doctor_id": "PDR-015",
+    "provider_id": "PRV-011",
+    "name_en": "Dr Ibrahim Al Mutlaq",
+    "name_ar": "د. إبراهيم المطلق",
+    "specialty_en": "Cardiology",
+    "specialty_ar": "أمراض القلب"
+  }
+]

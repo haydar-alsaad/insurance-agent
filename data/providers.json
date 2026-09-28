@@ -1,0 +1,262 @@
+[
+  {
+    "provider_id": "PRV-001",
+    "name_en": "Dr Sulaiman Al Habib Hospital — Olaya",
+    "name_ar": "مستشفى د. سليمان الحبيب — العليا",
+    "type": "Hospital",
+    "city_en": "Riyadh",
+    "city_ar": "الرياض",
+    "district_en": "Al Olaya",
+    "lat": 24.70158,
+    "lng": 46.67692,
+    "min_network_tier": 3,
+    "specialties": [
+      "Orthopedics",
+      "Radiology",
+      "Cardiology",
+      "Pediatrics",
+      "Internal Medicine",
+      "Obstetrics & Gynecology",
+      "Dermatology",
+      "ENT"
+    ],
+    "phone": "+966112001001",
+    "address_en": "Takhassusi Street, Al Olaya, Riyadh",
+    "address_ar": "شارع التخصصي، حي العليا، الرياض"
+  },
+  {
+    "provider_id": "PRV-002",
+    "name_en": "Kingdom Hospital",
+    "name_ar": "مستشفى المملكة",
+    "type": "Hospital",
+    "city_en": "Riyadh",
+    "city_ar": "الرياض",
+    "district_en": "Al Ghadir",
+    "lat": 24.7521,
+    "lng": 46.7294,
+    "min_network_tier": 3,
+    "specialties": [
+      "Orthopedics",
+      "Radiology",
+      "Cardiology",
+      "Obstetrics & Gynecology",
+      "General Surgery",
+      "Pediatrics"
+    ],
+    "phone": "+966112001002",
+    "address_en": "Abu Bakr Al Siddiq Road, Al Ghadir, Riyadh",
+    "address_ar": "طريق أبو بكر الصديق، حي الغدير، الرياض"
+  },
+  {
+    "provider_id": "PRV-003",
+    "name_en": "Saudi German Hospital — Riyadh",
+    "name_ar": "مستشفى السعودي الألماني — الرياض",
+    "type": "Hospital",
+    "city_en": "Riyadh",
+    "city_ar": "الرياض",
+    "district_en": "Al Wurud",
+    "lat": 24.7253,
+    "lng": 46.6897,
+    "min_network_tier": 4,
+    "specialties": [
+      "Orthopedics",
+      "Radiology",
+      "Cardiology",
+      "Neurology",
+      "Oncology",
+      "Pediatrics"
+    ],
+    "phone": "+966112001003",
+    "address_en": "Prince Sultan Road, Al Wurud, Riyadh",
+    "address_ar": "طريق الأمير سلطان، حي الورود، الرياض"
+  },
+  {
+    "provider_id": "PRV-004",
+    "name_en": "Al Hammadi Hospital — Olaya",
+    "name_ar": "مستشفى الحمادي — العليا",
+    "type": "Hospital",
+    "city_en": "Riyadh",
+    "city_ar": "الرياض",
+    "district_en": "Al Olaya",
+    "lat": 24.6897,
+    "lng": 46.6957,
+    "min_network_tier": 2,
+    "specialties": [
+      "Internal Medicine",
+      "Pediatrics",
+      "Obstetrics & Gynecology",
+      "Cardiology",
+      "ENT",
+      "Family Medicine"
+    ],
+    "phone": "+966112001004",
+    "address_en": "Al Ahsa Street, Al Olaya, Riyadh",
+    "address_ar": "شارع الأحساء، حي العليا، الرياض"
+  },
+  {
+    "provider_id": "PRV-005",
+    "name_en": "Dallah Hospital — Al Nakheel",
+    "name_ar": "مستشفى دله — النخيل",
+    "type": "Hospital",
+    "city_en": "Riyadh",
+    "city_ar": "الرياض",
+    "district_en": "Al Nakheel",
+    "lat": 24.756,
+    "lng": 46.644,
+    "min_network_tier": 2,
+    "specialties": [
+      "Internal Medicine",
+      "Pediatrics",
+      "Obstetrics & Gynecology",
+      "Dermatology",
+      "Family Medicine",
+      "ENT"
+    ],
+    "phone": "+966112001005",
+    "address_en": "King Fahd Road, Al Nakheel, Riyadh",
+    "address_ar": "طريق الملك فهد، حي النخيل، الرياض"
+  },
+  {
+    "provider_id": "PRV-006",
+    "name_en": "Smile Line Dental Clinics — Al Olaya",
+    "name_ar": "عيادات سمايل لاين لطب الأسنان — العليا",
+    "type": "Dental Clinic",
+    "city_en": "Riyadh",
+    "city_ar": "الرياض",
+    "district_en": "Al Olaya",
+    "lat": 24.6985,
+    "lng": 46.683,
+    "min_network_tier": 1,
+    "specialties": [
+      "General Dentistry",
+      "Dental Hygiene",
+      "Orthodontics"
+    ],
+    "phone": "+966112001006",
+    "address_en": "Olaya Street, Al Olaya, Riyadh",
+    "address_ar": "شارع العليا، حي العليا، الرياض"
+  },
+  {
+    "provider_id": "PRV-007",
+    "name_en": "Smile Line Dental Clinics — Al Yasmin",
+    "name_ar": "عيادات سمايل لاين لطب الأسنان — الياسمين",
+    "type": "Dental Clinic",
+    "city_en": "Riyadh",
+    "city_ar": "الرياض",
+    "district_en": "Al Yasmin",
+    "lat": 24.824,
+    "lng": 46.64,
+    "min_network_tier": 1,
+    "specialties": [
+      "General Dentistry",
+      "Dental Hygiene",
+      "Pediatric Dentistry"
+    ],
+    "phone": "+966112001007",
+    "address_en": "Anas Ibn Malik Road, Al Yasmin, Riyadh",
+    "address_ar": "طريق أنس بن مالك، حي الياسمين، الرياض"
+  },
+  {
+    "provider_id": "PRV-008",
+    "name_en": "Care Plus Family Clinic — Hittin",
+    "name_ar": "عيادة كير بلس للعائلة — حطين",
+    "type": "Clinic",
+    "city_en": "Riyadh",
+    "city_ar": "الرياض",
+    "district_en": "Hittin",
+    "lat": 24.76,
+    "lng": 46.601,
+    "min_network_tier": 1,
+    "specialties": [
+      "Family Medicine",
+      "Pediatrics",
+      "Internal Medicine"
+    ],
+    "phone": "+966112001008",
+    "address_en": "Prince Mohammed bin Saad Road, Hittin, Riyadh",
+    "address_ar": "طريق الأمير محمد بن سعد، حي حطين، الرياض"
+  },
+  {
+    "provider_id": "PRV-009",
+    "name_en": "Dr Soliman Fakeeh Hospital — Jeddah",
+    "name_ar": "مستشفى د. سليمان فقيه — جدة",
+    "type": "Hospital",
+    "city_en": "Jeddah",
+    "city_ar": "جدة",
+    "district_en": "Al Hamra",
+    "lat": 21.5146,
+    "lng": 39.176,
+    "min_network_tier": 3,
+    "specialties": [
+      "Orthopedics",
+      "Radiology",
+      "Cardiology",
+      "Pediatrics",
+      "Internal Medicine"
+    ],
+    "phone": "+966122001009",
+    "address_en": "Palestine Street, Al Hamra, Jeddah",
+    "address_ar": "شارع فلسطين، حي الحمراء، جدة"
+  },
+  {
+    "provider_id": "PRV-010",
+    "name_en": "Saudi German Hospital — Jeddah",
+    "name_ar": "مستشفى السعودي الألماني — جدة",
+    "type": "Hospital",
+    "city_en": "Jeddah",
+    "city_ar": "جدة",
+    "district_en": "Al Rawdah",
+    "lat": 21.566,
+    "lng": 39.16,
+    "min_network_tier": 4,
+    "specialties": [
+      "Orthopedics",
+      "Radiology",
+      "Cardiology",
+      "Neurology"
+    ],
+    "phone": "+966122001010",
+    "address_en": "Batterjee Street, Al Rawdah, Jeddah",
+    "address_ar": "شارع بترجي، حي الروضة، جدة"
+  },
+  {
+    "provider_id": "PRV-011",
+    "name_en": "Al Mouwasat Hospital — Dammam",
+    "name_ar": "مستشفى المواساة — الدمام",
+    "type": "Hospital",
+    "city_en": "Dammam",
+    "city_ar": "الدمام",
+    "district_en": "Al Faisaliyah",
+    "lat": 26.413,
+    "lng": 50.09,
+    "min_network_tier": 2,
+    "specialties": [
+      "Internal Medicine",
+      "Pediatrics",
+      "Cardiology",
+      "Obstetrics & Gynecology"
+    ],
+    "phone": "+966132001011",
+    "address_en": "King Saud Street, Al Faisaliyah, Dammam",
+    "address_ar": "شارع الملك سعود، حي الفيصلية، الدمام"
+  },
+  {
+    "provider_id": "PRV-012",
+    "name_en": "Smile Line Dental Clinics — Jeddah",
+    "name_ar": "عيادات سمايل لاين لطب الأسنان — جدة",
+    "type": "Dental Clinic",
+    "city_en": "Jeddah",
+    "city_ar": "جدة",
+    "district_en": "Al Rawdah",
+    "lat": 21.56,
+    "lng": 39.155,
+    "min_network_tier": 1,
+    "specialties": [
+      "General Dentistry",
+      "Dental Hygiene"
+    ],
+    "phone": "+966122001012",
+    "address_en": "Prince Sultan Street, Al Rawdah, Jeddah",
+    "address_ar": "شارع الأمير سلطان، حي الروضة، جدة"
+  }
+]

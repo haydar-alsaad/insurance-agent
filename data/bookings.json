@@ -1,0 +1,75 @@
+[
+  {
+    "booking_id": "BKG-70001",
+    "customer_id": "WTQ-C-2001",
+    "booking_type": "Hospital Appointment",
+    "claim_id": null,
+    "provider_id": "PRV-001",
+    "centre_id": null,
+    "doctor_id": "PDR-003",
+    "member_id": "MBR-10001",
+    "start_at": "2026-10-02T09:30:00+03:00",
+    "end_at": "2026-10-02T10:00:00+03:00",
+    "status": "Booked",
+    "details": {
+      "specialty_en": "Cardiology",
+      "specialty_ar": "أمراض القلب",
+      "reason_en": "Annual cardiology follow-up"
+    },
+    "patient_pays_sar": 50
+  },
+  {
+    "booking_id": "BKG-70002",
+    "customer_id": "WTQ-C-2002",
+    "booking_type": "Inspection",
+    "claim_id": "CLM-33890",
+    "provider_id": null,
+    "centre_id": "SVC-001",
+    "doctor_id": null,
+    "member_id": null,
+    "start_at": "2026-09-23T11:30:00+03:00",
+    "end_at": "2026-09-23T12:30:00+03:00",
+    "status": "Completed",
+    "details": {
+      "result_en": "Damage assessed and approved at SAR 14,200",
+      "result_ar": "تم تقييم الضرر واعتماده بمبلغ 14,200 ريال"
+    },
+    "patient_pays_sar": 0
+  },
+  {
+    "booking_id": "BKG-70003",
+    "customer_id": "WTQ-C-2002",
+    "booking_type": "Inspection",
+    "claim_id": "CLM-33702",
+    "provider_id": null,
+    "centre_id": "SVC-001",
+    "doctor_id": null,
+    "member_id": null,
+    "start_at": "2026-09-16T09:00:00+03:00",
+    "end_at": "2026-09-16T10:00:00+03:00",
+    "status": "Completed",
+    "details": {
+      "result_en": "Total loss — valuation issued",
+      "result_ar": "خسارة كلية — صدر التقييم"
+    },
+    "patient_pays_sar": 0
+  },
+  {
+    "booking_id": "BKG-70004",
+    "customer_id": "WTQ-C-2003",
+    "booking_type": "Inspection",
+    "claim_id": "CLM-33512",
+    "provider_id": null,
+    "centre_id": "SVC-001",
+    "doctor_id": null,
+    "member_id": null,
+    "start_at": "2026-09-10T14:00:00+03:00",
+    "end_at": "2026-09-10T15:00:00+03:00",
+    "status": "Completed",
+    "details": {
+      "result_en": "Inspected — estimate SAR 6,850 sent for review",
+      "result_ar": "تمت المعاينة — تقدير 6,850 ريال أُرسل للمراجعة"
+    },
+    "patient_pays_sar": 0
+  }
+]

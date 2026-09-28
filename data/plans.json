@@ -1,0 +1,121 @@
+[
+  {
+    "plan_code": "MOTOR_TPL",
+    "product": "Motor",
+    "name_en": "Motor Third-Party Liability",
+    "name_ar": "تأمين المركبات ضد الغير",
+    "cover_summary_en": "Covers damage and injury you cause to others, up to SAR 10,000,000. Your own car is not covered.",
+    "cover_summary_ar": "يغطي الأضرار والإصابات التي تسببها للغير حتى 10,000,000 ريال. لا يغطي سيارتك.",
+    "details": {
+      "cover_type": "TPL",
+      "third_party_liability_sar": 10000000,
+      "own_damage": false,
+      "allowed_driver_relationships": [
+        "Spouse",
+        "Parent",
+        "Child",
+        "Sibling",
+        "Employee (work contract)"
+      ]
+    }
+  },
+  {
+    "plan_code": "MOTOR_COMP",
+    "product": "Motor",
+    "name_en": "Motor Comprehensive",
+    "name_ar": "تأمين المركبات الشامل",
+    "cover_summary_en": "Your own car and third-party liability. Repair at approved workshops; SAR 500 excess when at fault.",
+    "cover_summary_ar": "يغطي سيارتك والمسؤولية تجاه الغير. الإصلاح في الورش المعتمدة؛ تحمّل 500 ريال عند الخطأ.",
+    "details": {
+      "cover_type": "Comprehensive",
+      "third_party_liability_sar": 10000000,
+      "own_damage": true,
+      "excess_sar": 500,
+      "repair_default": "Approved Workshop",
+      "parts": "Non-original approved parts",
+      "available_addons": [
+        "AGENCY_REPAIR",
+        "REPLACEMENT_CAR",
+        "ADDITIONAL_DRIVER"
+      ]
+    }
+  },
+  {
+    "plan_code": "HEALTH_FAMILY",
+    "product": "Health",
+    "name_en": "Watheeq Family Health",
+    "name_ar": "وثيق للتأمين الصحي العائلي",
+    "cover_summary_en": "Individual and family medical cover in four classes (VIP, A, B, C). Limits, network and co-pay depend on the class.",
+    "cover_summary_ar": "تأمين طبي للأفراد والعائلات بأربع فئات (VIP، أ، ب، ج). الحدود والشبكة ونسبة التحمّل حسب الفئة.",
+    "details": {
+      "classes": [
+        "VIP",
+        "A",
+        "B",
+        "C"
+      ],
+      "class_table": "health_classes",
+      "cosmetic_covered": false,
+      "dental_cleanings_per_year": 2,
+      "newborn_add_window_days": 30
+    }
+  },
+  {
+    "plan_code": "TRAVEL_SCHENGEN",
+    "product": "Travel",
+    "name_en": "Travel Schengen",
+    "name_ar": "تأمين السفر — شنغن",
+    "cover_summary_en": "€50,000 emergency medical and repatriation, valid in all Schengen states for the trip plus 15 days. Delayed baggage up to SAR 3,000, lost baggage up to SAR 5,000.",
+    "cover_summary_ar": "50,000 يورو للعلاج الطارئ والإعادة إلى الوطن، سارٍ في جميع دول شنغن لمدة الرحلة و15 يوماً إضافية. تأخر الأمتعة حتى 3,000 ريال، وفقدانها حتى 5,000 ريال.",
+    "details": {
+      "cover_eur": 50000,
+      "emergency_medical": true,
+      "repatriation": true,
+      "schengen_compliant": true,
+      "extra_days_after_trip": 15,
+      "delayed_baggage_limit_sar": 3000,
+      "lost_baggage_limit_sar": 5000,
+      "price_per_traveller_sar": 155,
+      "price_covers_days": 31,
+      "extra_day_sar": 5
+    }
+  },
+  {
+    "plan_code": "TRAVEL_WORLDWIDE",
+    "product": "Travel",
+    "name_en": "Travel Worldwide",
+    "name_ar": "تأمين السفر — حول العالم",
+    "cover_summary_en": "€100,000 emergency medical and repatriation worldwide. Delayed baggage up to SAR 3,000, lost baggage up to SAR 5,000, trip cancellation up to SAR 5,000.",
+    "cover_summary_ar": "100,000 يورو للعلاج الطارئ والإعادة إلى الوطن حول العالم. تأخر الأمتعة حتى 3,000 ريال، وفقدانها حتى 5,000 ريال، وإلغاء الرحلة حتى 5,000 ريال.",
+    "details": {
+      "cover_eur": 100000,
+      "emergency_medical": true,
+      "repatriation": true,
+      "delayed_baggage_limit_sar": 3000,
+      "lost_baggage_limit_sar": 5000,
+      "trip_cancellation_limit_sar": 5000,
+      "price_per_traveller_sar": 245,
+      "price_covers_days": 31,
+      "extra_day_sar": 7
+    }
+  },
+  {
+    "plan_code": "HOME_STANDARD",
+    "product": "Home",
+    "name_en": "Home Standard",
+    "name_ar": "تأمين المنزل القياسي",
+    "cover_summary_en": "Building and contents against fire, burst pipes and water damage, theft and storms. SAR 500 excess per claim.",
+    "cover_summary_ar": "يغطي المبنى والمحتويات ضد الحريق وانفجار الأنابيب وأضرار المياه والسرقة والعواصف. تحمّل 500 ريال لكل مطالبة.",
+    "details": {
+      "excess_sar": 500,
+      "perils": [
+        "Fire",
+        "Burst pipes & water damage",
+        "Theft",
+        "Storm"
+      ],
+      "burst_pipes_covered": true,
+      "inspection_within_hours": 24
+    }
+  }
+]

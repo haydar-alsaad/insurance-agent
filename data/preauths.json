@@ -1,0 +1,34 @@
+[
+  {
+    "preauth_id": "APR-66120",
+    "customer_id": "WTQ-C-2001",
+    "member_id": "MBR-10001",
+    "provider_id": "PRV-001",
+    "procedure_en": "MRI — lumbar spine (lower back)",
+    "procedure_ar": "رنين مغناطيسي — أسفل الظهر (الفقرات القطنية)",
+    "status": "Submitted",
+    "submitted_at": "2026-10-01T10:42:00+03:00",
+    "patient_waiting": false,
+    "priority": "Normal",
+    "approved_amount_sar": null,
+    "approval_number": null,
+    "decided_at": null,
+    "notes_en": "Requested by Dr Khalid Al Amri (Orthopedics) — persistent lower back pain."
+  },
+  {
+    "preauth_id": "APR-65410",
+    "customer_id": "WTQ-C-2001",
+    "member_id": "MBR-10002",
+    "provider_id": "PRV-001",
+    "procedure_en": "Ultrasound — abdomen",
+    "procedure_ar": "أشعة صوتية — البطن",
+    "status": "Approved",
+    "submitted_at": "2026-07-30T11:05:00+03:00",
+    "patient_waiting": false,
+    "priority": "Normal",
+    "approved_amount_sar": 650,
+    "approval_number": "APR-65410",
+    "decided_at": "2026-07-30T11:48:00+03:00",
+    "notes_en": "Routine approval."
+  }
+]

@@ -1,0 +1,306 @@
+[
+  {
+    "policy_id": "POL-MTR-10001",
+    "customer_id": "WTQ-C-2001",
+    "product": "Motor",
+    "plan_code": "MOTOR_COMP",
+    "status": "Active",
+    "start_date": "2026-03-03",
+    "end_date": "2027-03-02",
+    "premium_paid_sar": 2650,
+    "cover": {
+      "vehicle_id": "VEH-10001",
+      "cover_type": "Comprehensive",
+      "drivers": [
+        {
+          "name_en": "Saud Al-Mutairi",
+          "name_ar": "سعود المطيري",
+          "relationship": "Policyholder",
+          "id_last4": "7561",
+          "licence_issue_date": "2005-06-01"
+        }
+      ],
+      "addons": [],
+      "repair": "Approved Workshop",
+      "claims_paid_count": 0,
+      "renewal_offer": {
+        "tpl_sar": 600,
+        "comp_sar": 1860,
+        "ncd_percent": 30
+      }
+    }
+  },
+  {
+    "policy_id": "POL-HLT-10001",
+    "customer_id": "WTQ-C-2001",
+    "product": "Health",
+    "plan_code": "HEALTH_FAMILY",
+    "status": "Active",
+    "start_date": "2026-01-01",
+    "end_date": "2026-12-31",
+    "premium_paid_sar": 39200,
+    "cover": {
+      "class_code": "A",
+      "network_tier": 3,
+      "members": [
+        "MBR-10001",
+        "MBR-10002",
+        "MBR-10003",
+        "MBR-10004"
+      ]
+    }
+  },
+  {
+    "policy_id": "POL-HOM-10001",
+    "customer_id": "WTQ-C-2001",
+    "product": "Home",
+    "plan_code": "HOME_STANDARD",
+    "status": "Active",
+    "start_date": "2025-11-15",
+    "end_date": "2026-11-14",
+    "premium_paid_sar": 950,
+    "cover": {
+      "address_en": "Villa 14, Al Mutanabbi Street, Al Olaya, Riyadh 12214",
+      "address_ar": "فيلا 14، شارع المتنبي، حي العليا، الرياض 12214",
+      "sum_insured_contents_sar": 150000,
+      "sum_insured_building_sar": 1200000,
+      "excess_sar": 500,
+      "renewal_offer": {
+        "premium_sar": 890,
+        "no_claims_discount": true
+      }
+    }
+  },
+  {
+    "policy_id": "POL-TRV-10001",
+    "customer_id": "WTQ-C-2001",
+    "product": "Travel",
+    "plan_code": "TRAVEL_SCHENGEN",
+    "status": "Expired",
+    "start_date": "2026-07-06",
+    "end_date": "2026-08-20",
+    "premium_paid_sar": 310,
+    "cover": {
+      "plan_code": "TRAVEL_SCHENGEN",
+      "destination_en": "Schengen area (France, Italy)",
+      "destination_ar": "منطقة شنغن (فرنسا، إيطاليا)",
+      "travellers": [
+        {
+          "name_en": "Saud Al-Mutairi",
+          "name_ar": "سعود المطيري",
+          "relationship": "Policyholder"
+        },
+        {
+          "name_en": "Hessa Al-Shammari",
+          "name_ar": "حصة الشمري",
+          "relationship": "Spouse"
+        }
+      ],
+      "cover_eur": 50000,
+      "trip_start": "2026-07-06",
+      "trip_end": "2026-08-05"
+    }
+  },
+  {
+    "policy_id": "POL-MTR-20001",
+    "customer_id": "WTQ-C-2002",
+    "product": "Motor",
+    "plan_code": "MOTOR_TPL",
+    "status": "Active",
+    "start_date": "2026-05-02",
+    "end_date": "2027-05-01",
+    "premium_paid_sar": 820,
+    "cover": {
+      "vehicle_id": "VEH-20001",
+      "cover_type": "TPL",
+      "drivers": [
+        {
+          "name_en": "Turki Al-Shehri",
+          "name_ar": "تركي الشهري",
+          "relationship": "Policyholder",
+          "id_last4": "3847",
+          "licence_issue_date": "2009-10-15"
+        }
+      ],
+      "addons": [],
+      "repair": "Approved Workshop",
+      "claims_paid_count": 0,
+      "renewal_offer": {
+        "tpl_sar": 780,
+        "comp_sar": 2710,
+        "ncd_percent": 10
+      }
+    }
+  },
+  {
+    "policy_id": "POL-MTR-20002",
+    "customer_id": "WTQ-C-2002",
+    "product": "Motor",
+    "plan_code": "MOTOR_COMP",
+    "status": "Active",
+    "start_date": "2026-02-16",
+    "end_date": "2027-02-15",
+    "premium_paid_sar": 4800,
+    "cover": {
+      "vehicle_id": "VEH-20002",
+      "cover_type": "Comprehensive",
+      "drivers": [
+        {
+          "name_en": "Turki Al-Shehri",
+          "name_ar": "تركي الشهري",
+          "relationship": "Policyholder",
+          "id_last4": "3847",
+          "licence_issue_date": "2009-10-15"
+        }
+      ],
+      "addons": [
+        "REPLACEMENT_CAR"
+      ],
+      "repair": "Approved Workshop",
+      "claims_paid_count": 0,
+      "renewal_offer": {
+        "tpl_sar": 990,
+        "comp_sar": 4250,
+        "ncd_percent": 10
+      }
+    }
+  },
+  {
+    "policy_id": "POL-MTR-20003",
+    "customer_id": "WTQ-C-2002",
+    "product": "Motor",
+    "plan_code": "MOTOR_COMP",
+    "status": "Active",
+    "start_date": "2025-12-01",
+    "end_date": "2026-11-30",
+    "premium_paid_sar": 1300,
+    "cover": {
+      "vehicle_id": "VEH-20003",
+      "cover_type": "Comprehensive",
+      "drivers": [
+        {
+          "name_en": "Turki Al-Shehri",
+          "name_ar": "تركي الشهري",
+          "relationship": "Policyholder",
+          "id_last4": "3847",
+          "licence_issue_date": "2009-10-15"
+        }
+      ],
+      "addons": [],
+      "repair": "Approved Workshop",
+      "claims_paid_count": 0,
+      "renewal_offer": {
+        "tpl_sar": 760,
+        "comp_sar": 1250,
+        "ncd_percent": 10
+      }
+    }
+  },
+  {
+    "policy_id": "POL-MTR-30001",
+    "customer_id": "WTQ-C-2003",
+    "product": "Motor",
+    "plan_code": "MOTOR_COMP",
+    "status": "Expired",
+    "start_date": "2025-09-03",
+    "end_date": "2026-09-02",
+    "premium_paid_sar": 2300,
+    "cover": {
+      "vehicle_id": "VEH-30001",
+      "cover_type": "Comprehensive",
+      "drivers": [
+        {
+          "name_en": "Abdulaziz Al-Dosari",
+          "name_ar": "عبدالعزيز الدوسري",
+          "relationship": "Policyholder",
+          "id_last4": "1926",
+          "licence_issue_date": "2001-03-12"
+        }
+      ],
+      "addons": [],
+      "repair": "Approved Workshop",
+      "claims_paid_count": 0,
+      "renewal_offer": {
+        "tpl_sar": 860,
+        "comp_sar": 2140,
+        "ncd_percent": 30
+      }
+    }
+  },
+  {
+    "policy_id": "POL-MTR-30002",
+    "customer_id": "WTQ-C-2003",
+    "product": "Motor",
+    "plan_code": "MOTOR_COMP",
+    "status": "Active",
+    "start_date": "2026-03-30",
+    "end_date": "2027-03-29",
+    "premium_paid_sar": 2400,
+    "cover": {
+      "vehicle_id": "VEH-30002",
+      "cover_type": "Comprehensive",
+      "drivers": [
+        {
+          "name_en": "Abdulaziz Al-Dosari",
+          "name_ar": "عبدالعزيز الدوسري",
+          "relationship": "Policyholder",
+          "id_last4": "1926",
+          "licence_issue_date": "2001-03-12"
+        }
+      ],
+      "addons": [],
+      "repair": "Approved Workshop",
+      "claims_paid_count": 0,
+      "renewal_offer": {
+        "tpl_sar": 630,
+        "comp_sar": 1240,
+        "ncd_percent": 30
+      }
+    }
+  },
+  {
+    "policy_id": "POL-TRV-30001",
+    "customer_id": "WTQ-C-2003",
+    "product": "Travel",
+    "plan_code": "TRAVEL_WORLDWIDE",
+    "status": "Active",
+    "start_date": "2026-09-26",
+    "end_date": "2026-10-11",
+    "premium_paid_sar": 245,
+    "cover": {
+      "plan_code": "TRAVEL_WORLDWIDE",
+      "destination_en": "Spain",
+      "destination_ar": "إسبانيا",
+      "travellers": [
+        {
+          "name_en": "Abdulaziz Al-Dosari",
+          "name_ar": "عبدالعزيز الدوسري",
+          "relationship": "Policyholder"
+        }
+      ],
+      "cover_eur": 100000,
+      "trip_start": "2026-09-26",
+      "trip_end": "2026-10-11"
+    }
+  },
+  {
+    "policy_id": "POL-HLT-40001",
+    "customer_id": "WTQ-C-2004",
+    "product": "Health",
+    "plan_code": "HEALTH_FAMILY",
+    "status": "Active",
+    "start_date": "2026-01-01",
+    "end_date": "2026-12-31",
+    "premium_paid_sar": 22000,
+    "cover": {
+      "class_code": "B",
+      "network_tier": 2,
+      "members": [
+        "MBR-40001",
+        "MBR-40002",
+        "MBR-40003",
+        "MBR-40004"
+      ]
+    }
+  }
+]
